@@ -1,0 +1,1 @@
+const alim = 0
