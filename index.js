@@ -1,1 +1,1 @@
-const alim = 0
+console.log('bye');
